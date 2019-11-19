@@ -1,6 +1,6 @@
 [submodule "quaff"]
 	path = quaff
-	url = git@github.com:Metaswitch/quaff.git
+	url = git@github.com:InfiCell/quaff.git
 [submodule "build-infra"]
 	path = build-infra
-	url = git@github.com:Metaswitch/clearwater-build-infra.git
+	url = git@github.com:InfiCell/clearwater-build-infra.git
